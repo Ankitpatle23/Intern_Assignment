@@ -15,4 +15,4 @@ How to reproduce :
 Run the jyupiter notebook in order starting from data exploration to final outcome.
 The cleaned dataset and orginal dataset also given and output and report are mentioned in jyupiter notebook file.
 
-Data source link : Kaggle: Data Science Job Salaries
+Data source link : https://www.kaggle.com/datasets/data-science-job-salaries
